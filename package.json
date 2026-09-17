@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a basic app to learn",
+  "keywords": [
+    "node",
+    "backend"
+  ],
+  "homepage": "https://github.com/anuj9999-p/backend-learning#readme",
+  "bugs": {
+    "url": "https://github.com/anuj9999-p/backend-learning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuj9999-p/backend-learning.git"
+  },
+  "license": "ISC",
+  "author": "anuj shukla",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
